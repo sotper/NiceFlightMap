@@ -1,0 +1,38 @@
+.navbar{
+    margin-bottom: 0;
+}
+#map_cont{
+}
+
+#my_panel
+{
+
+}
+.nav-tabs{
+    padding-left:10px;
+}
+.table_info_tr{
+    cursor: pointer;
+}
+.pt-box{
+    display: block;
+    background-color: #333333;
+    width: 200px;
+    color: #eeeeee;
+    opacity: 0.8;
+    border:2px dashed #ffff00;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 10px;
+}
+.pt-box span{
+    color: #ffff00;
+    padding-right: 4px;
+}
+.pt-box b{
+    color: #ffffff;
+}
+.pt-title{
+    color: #ffff00;
+    font-weight: bold;
+}
